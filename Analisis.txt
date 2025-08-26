@@ -1,0 +1,12 @@
+Pengguna paling banyak pertama kali bertranksaksi yaitu pada bulan Januari 2010 (713 pengguna)
+
+Cohort pengguna tersebut juga yang paling banyak bertransaksi Kembali di bulan ke-2 mereka (39% retention rate) disbanding cohort yang lain.
+
+Selain itu, cohort tersebut jugalah yang paling loyal bertransaksi selama bulan-bulan 
+berikutnya dengan retention rate ~40%+.
+
+Sayangnya, Sebagian besar pengguna tidak Kembali bertransaksi, terlihat dari retention rate 
+di banyak cohort dan bulan yang nilainya tak sampai 50%.
+
+Yang cukup mengkhawatirkan, retention rate di Desember 2010 menjadi yang terendah untuk 
+semua cohort pengguna disbanding bulan-bulan sebelumnya.
